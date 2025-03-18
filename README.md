@@ -1,5 +1,3 @@
-# MoneyXAI
-
 # MoneyXAI: Explainable AI for Money Laundering Detection
 
 ## Overview
